@@ -3,7 +3,7 @@ A tool that uses AI to predict and classify internet subdomains.
 
 # Subdomain Predictor and Classifier
 
-This tool uses AI to predict and classify internet subdomains. Given a list of known subdomains, it can predict additional subdomains that might exist and are similar in structure and naming convention to the known subdomains. It can also classify the predicted subdomains based on their likely purpose or function. Being powered by AI helps it to generate subdomains that traditional tools can't.
+This tool uses AI to predict and classify internet subdomains. Given a list of known subdomains, it can predict additional subdomains that might exist and are similar in structure and naming convention to the known subdomains. It can also classify the predicted subdomains based on their likely purpose or function. Being powered by AI helps it to generate subdomains that traditional tools can't. This provides an excellent opportunity to view all the subdomains created by SubAI, and additionally, it allows you to employ your personal resolver for these subdomains.
 
 The following subdomains were found by this tool with [these](https://raw.githubusercontent.com/shubham-s-pandey/SubAI/main/input.txt) 30 subdomains as input.
 
