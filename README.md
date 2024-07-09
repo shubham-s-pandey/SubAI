@@ -1,4 +1,7 @@
 # SubAI
+<h1 align="center">
+  <a href="https://github.com/shubham-s-pandey/SubAI"><img src="https://github.com/shubham-s-pandey/SubAI/blob/main/SubAI.png" alt="logo" border="0"></a>
+</h1>
 A tool that uses AI to predict and classify internet subdomains.
 
 # Subdomain Predictor and Classifier
@@ -77,3 +80,11 @@ Task output: 1. dclb02-dca1.example.com - Infrastructure
 - Clone this repository.
 - Set your OpenAI API key as an environment variable: export OPENAI_MODEL_NAME='gpt-3.5-turbo'
 - Run the script with your known subdomains.
+
+## Bugs and Feature Requests
+
+Please raise an issue if you encounter a bug or have a feature request. 
+
+## Contributing
+
+If you want to contribute to a project and make it better, your help is very welcome.
